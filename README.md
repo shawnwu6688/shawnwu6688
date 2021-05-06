@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shawnWu
+- 👋 Hi, I’m @ShawnWu
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning china
 - 💞️ I’m looking to collaborate on anything
